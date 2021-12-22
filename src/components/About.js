@@ -11,7 +11,7 @@ function About() {
           <div className="col-md-6">
             <h2 className="main-title about-h2">How am I and what is Love4Nature</h2>
             <p className="main-p">
-            I'm Rahul Panicker, I’m born and raised in India but live now in Sweden.  I have always had a very close contact with nature and animals. My goal is to have a safe environment not only for humans but for animals and nature. So if I will succeed in my goals with the company Love4Nature I will donate my 10% of profit annual income for OUR planet Earth. I will when donate to other organizations that is working for the environment and nature.<br /><br />
+            I'm Rahul Panicker, I’m born and raised in India but live now in Sweden.  I have always had a very close contact with nature and animals. My goal is to have a safe environment not only for humans but for animals and nature. So if I will succeed in my goals with the company Love4Nature I will donate my 10% of profit annual income for OUR planet Earth. I will when donate to other organizations that is working for nature.<br /><br />
  So that is Love4Nature? <br /><br />
 we want to making the world more sustainable and eco-friendly by helping companies & individuals to use Jute, the most sustainable material in the world. We are providing bags of Jute material, use your size and stile on your own. <br /><br />
 Jute history<br /><br />
