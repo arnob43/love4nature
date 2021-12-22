@@ -43,16 +43,16 @@ function Footer() {
           <div className="side2">
             <div className="row">
               <div className="col-md-3">
-                <p className="footer-title">Contact</p>
+                <p className="footer-title">Contact Information</p>
                 <ul>
                   <li>
                     <Link to="#" >contact@love4nature.se</Link>
                   </li>
+                  {/* <li>
+                    <Link to="#" ></Link>
+                  </li> */}
                   <li>
-                    <Link to="#" > Arnob #3265</Link>
-                  </li>
-                  <li>
-                    <Link to="#" >0212 444 44 44</Link>
+                    <Link to="#" >+460722526923</Link>
                   </li>
                 </ul>
               </div>
